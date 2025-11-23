@@ -5,7 +5,7 @@
         "update_url": null
     },
     "exported_at": "2025-07-09T22:14:10+02:00",
-    "name": "node.js generic",
+    "name": "Discord JS",
     "author": "parker@parkervcp.com",
     "description": "a generic node.js egg\r\n\r\nThis will clone a git repo. it defaults to master if no branch is specified.\r\n\r\nInstalls the node_modules on install. If you set user_upload then I assume you know what you are doing.",
     "features": null,

@@ -1,14 +1,42 @@
 {
-  "Token": "votre_token",
+  "Token": "VOTRE_TOKEN_ICI",
   "ServerIP": "",
   "ServerPort": 27015,
+
   "ChannelID": "",
   "MessageID": null,
-  "servertitle": "Preview",
-  "colorembed": "#424549",
+
+  "servertitle": "Mon serveur GMod",
   "gamemode": "DarkRP",
+
+  "colorembed": "#2b2d31",
   "image": "https://i.imgur.com/cVq5RMP.png",
-  "setActivity": "config",
-  "connectButtonURL": "http://", 
-  "showPing": true
+
+  "setActivityOffline": "Serveur hors ligne",
+  "setActivityType": "WATCHING",
+
+  "footerText": "Statut mis à jour toutes les 60 secondes",
+  "footerIcon": "",
+
+  "showPing": true,
+  "showGamemode": true,
+  "showMap": true,
+  "showPeak24h": true,
+
+  "peakDataFile": "./peakData.json",
+
+  "buttons": [
+    {
+      "label": "Collection",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=XXXXXXXXX"
+    },
+    {
+      "label": "Site",
+      "url": "https://votre-site.fr"
+    },
+    {
+      "label": "Boutique",
+      "url": "https://votre-boutique.fr"
+    }
+  ]
 }
