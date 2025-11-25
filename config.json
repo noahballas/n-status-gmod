@@ -24,19 +24,23 @@
   "showPeak24h": true,
 
   "peakDataFile": "./peakData.json",
-
+  
   "buttons": [
+    {
+      "label": "Se connecter",
+      "url": "https://tinyurl.com/play-nom-de-monserver"
+    },
     {
       "label": "Collection",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=XXXXXXXXX"
     },
     {
       "label": "Site",
-      "url": "https://votre-site.fr"
+      "url": "https://gmod4life.fr"
     },
     {
       "label": "Boutique",
-      "url": "https://votre-boutique.fr"
+      "url": "https://boutique.gmod4life.fr"
     }
   ]
 }
