@@ -2,7 +2,7 @@
 
 GMod Server Status Bot est un bot Discord entièrement optimisé pour fournir des mises à jour en temps réel sur l'état de votre serveur Garry's Mod ! Plus qu'un simple bot, il est conçu pour tenir votre communauté informée et engagée, avec des informations précises sur la disponibilité et les performances du serveur.
 
-![image](https://github.com/user-attachments/assets/e1a9cab5-cef8-40b2-b991-66cc94393b91)
+<img width="512" height="554" alt="image" src="https://github.com/user-attachments/assets/216431fa-c0aa-46a2-aad1-621b3910d904" />
 
 ## 🚀 Fonctionnalités
 Statut en Temps Réel : Le bot vérifie constamment l'état de votre serveur GMod, garantissant que votre communauté est toujours au courant des moindres changements.
